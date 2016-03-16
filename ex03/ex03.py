@@ -1,5 +1,6 @@
+#_*_coding:cp949
 print "I will now count my chickens:"
-
+print "¾ÏÅ¼ 7¸¶¸® ¼öÅ¼1¸¶¸®"
 print "Hens", 25 + 30 / 6
 print "Roosters", 100 - 25 * 3 % 4
 
